@@ -1,9 +1,8 @@
 {
   "name": "sdb_getion",
-  "version": 2.4,
+  "version": 2.5,
   "description": [
     "added new screen",
-    "added new screen"
   ],
   "windows_file_name": "C://Release"
 }
